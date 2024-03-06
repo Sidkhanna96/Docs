@@ -46,3 +46,25 @@ Optimization Problem:
 
 Backtracking:
     - find all possible solutions
+
+
+
+
+# Template:
+
+### Videos
+
+### When is it used ?
+
+### Under what Context can it be used ?
+
+### What to know ?
+
+### Questions:
+
+
+### How it works ?
+
+
+
+

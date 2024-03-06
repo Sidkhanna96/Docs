@@ -1,9 +1,11 @@
+### Videos
+
 - https://www.youtube.com/watch?v=ARvQcqJ_-NY&list=PLfFeAJ-vQopt_S5XlayyvDFL_mi2pGJE3
 - https://www.youtube.com/watch?v=wU6udHRIkcc 
 - https://www.youtube.com/watch?v=4ZlRH0eK-qQ 
 
 ### When is it used ?
-- Optimization Problems: A problem that requires min or max result out of possible solutions - On each step we have a set of pre-existing condition we can check to see if its met then thats the feasible solution
+- Optimization Problems: A problem that requires min or max result out of possible solutions - On each step we have a set of pre-existing condition we can check to see if its met then thats the feasible s`olution
 
 ### Under what Context can it be used ?
 - If we wanted to construct the most optimal and efficient way to connect a set of cities for a train infrastructure with minimum distance travelled between all cities or minimum distance from one point to another
