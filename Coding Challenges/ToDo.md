@@ -37,8 +37,9 @@
         - Knapsack 0/2
     - Monotonic Stack
 
-Optimization: https://www.youtube.com/watch?v=5dRGRueKU3M&list=PLJULIlvhz0rE83NKhnq7acXYIeA0o1dXb 
-Backtracking: https://www.youtube.com/watch?v=DKCbsiDBN6c 
+[Optimization](https://www.youtube.com/watch?v=5dRGRueKU3M&list=PLJULIlvhz0rE83NKhnq7acXYIeA0o1dXb) 
+
+[Backtracking](https://www.youtube.com/watch?v=DKCbsiDBN6c) 
 
 Optimization Problem:
     - Aim to find the best solution from a set of possible solutions

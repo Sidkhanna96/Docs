@@ -1,0 +1,5 @@
+- Break down problems or task into smaller ones
+- Watch a video on youtube for 40 mins less
+    - Read blog
+    - Start attacking the problem look into the codebase
+    - read some documentation 
