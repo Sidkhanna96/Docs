@@ -54,12 +54,28 @@
         - we calculate all the manhattan distances
         - then we sort if based on weight
         - for each edge we can do a DSU if it is part of the cycle then ignore it
+    - Basic Idea:
+        - Find all the edges between each point
+        - Sort all the edges
+        - Do a DSU if can unionize 2 points then can be added to the weight
 - Prims:
     - you select an edge and from there you select the minimum edge you can take from the list of connected edges
         - Have a list to track the point that have been visited 
         - use minHeap for all the fistances you can measure from current point 
+    - Basic Idea:
+        - Starting point with weight and point
+        - Add the progressive edges from a given point to the heap
+        - if not visited point then add it to nextWeight
 - Dijkstra:
     - Purpose is to select the shortest path from source A to B
+    - Basic Idea:
+        - heap of starting weight and node
+        - add progressive points to the heap
+        - once visited all nodes in the above question return the weight
+
+
+
+
 
 
 

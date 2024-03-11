@@ -62,7 +62,6 @@ Backtracking:
 
 ### Questions:
 
-
 ### How it works ?
 
 
