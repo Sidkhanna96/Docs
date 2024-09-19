@@ -207,19 +207,19 @@ def trieFunc(self, word)
 
     - Essentially when we need to parse a graph with some of them not having an invertex and we want to see if all graphs are reachable we use this
 
-    ```
-    adjacencyList = {}
-    for start, end in node:
-        adjacencyList[start].append(end)
+```
+adjacencyList = {}
+for start, end in node:
+    adjacencyList[start].append(end)
 
-    queue = []
+queue = []
 
-    while queue:
-        node = queue.pop(0)
+while queue:
+    node = queue.pop(0)
 
-        for nextNode in adjacencyList[node]:
-            queue.append(nextNode)
+    for nextNode in adjacencyList[node]:
+        queue.append(nextNode)
 
-    ```
+```
 
-  - [Greedy](./Greedy.md)
+- [Greedy](./Greedy.md)

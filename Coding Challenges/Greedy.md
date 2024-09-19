@@ -7,6 +7,7 @@
 ### When is it used ?
 
 - Optimization Problems: A problem that requires min or max result out of possible solutions - On each step we have a set of pre-existing condition we can check to see if its met then thats the feasible solution
+- Making Local Optimal choices hoping would lead to global optimal solution - But not solving per say
 
 ### Under what Context can it be used ?
 

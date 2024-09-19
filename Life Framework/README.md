@@ -1,0 +1,20 @@
+- mindset
+- Focus
+- Decision making
+  - Be as specific as possible - understand you've flexibility but and immense amount of option gives you paralysis - limit your choices
+    - I find higher level decision be analytical but when it comes down to minor options be emotional and go with what you want and how you want to live
+    - timebox and make decisions quick - Make an absolute decision though!
+  - Be okay with not making perfect decision - what doesn't kill you makes you stronger - the bad experiences will make your skin tougher the life experiences will make you tougher than just claiming you've thick skin - Deal with problems believe in yourself you can figure it out
+- Conversation Skills
+  - Starting and opening a conversation in various scenarios
+  - Dictating a conversation - Try to listen - See what the person is missing in life - what is the main thing troubling them - See what drives them and what they want to do in life - what motivates them in life - what they want to do
+    -Esclation
+    - Create a void of being needed
+    - But also not be too invested in them or needy
+    - you want to build rapport so have a conversation so they feel comfortable and secure
+    - you also want to create a vacuum of not being present and inflict small amounts of pain for desire - not always available
+- Social Circle
+  - Creating high value social network
+- Body Language
+- Weight loss
+- Investment framework

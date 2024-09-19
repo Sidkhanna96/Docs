@@ -1,0 +1,6 @@
+- What is GIC ?
+- What is shorting ?
+- What are options ?
+- how to track powerful people and their stocks
+  - i cant believe no one has used this site. what i look for is stacked insider buying. cluster buys. not just one insider buying, but many. the only insiders that are important are corporate level insiders (CEO,COO,CFO, etc. ,VP, ) and directors. NOT 10% shareholders. I look for cluster buys. I want the aggregate amount to be over 150k. no pussy buying. sometimes you see 5k 10k thats negligble, look for the big chunks. i really like if the insider keeps buying if the stock keeps going down, thats real conviction, real guts.
+  - http://openinsider.com/#google_vignette
