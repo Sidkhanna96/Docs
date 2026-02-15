@@ -222,4 +222,15 @@ while queue:
 
 ```
 
+- Algorithms (Creating Adjacency List / Matrix):
+
+  - DFS / BFS
+  - Iterative DFS
+  - Topological Sort
+  - Graph Theory (Parent)
+  - Union Find / DSU
+  - Kruskals (Builds on top of DSU)
+  - Prims
+  - Dijkstra
+
 - [Greedy](./Greedy.md)

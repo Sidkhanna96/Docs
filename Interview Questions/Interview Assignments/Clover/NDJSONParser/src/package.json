@@ -1,0 +1,19 @@
+{
+  "name": "clover",
+  "version": "1.0.0",
+  "description": "NDJSON Parser",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sid Khanna",
+  "license": "ISC",
+  "dependencies": {
+    "csv": "^6.3.8",
+    "csv-parse": "^5.5.5",
+    "glob": "^10.3.10",
+    "path": "^0.12.7",
+    "uuid": "^9.0.1"
+  }
+}

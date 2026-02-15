@@ -6,7 +6,7 @@
 
 ### When is it used ?
 
-- Optimization Problem: Essentially Find all possible solutions and then pick the best one - **Find the max or min or count of something**
+- Optimization Problem: Essentially Find all possible solutions and then pick the best one - **Find the max or min or count of something OR return the number of possible combinations**
 - Break down the problem into smaller sub-problems; Solve them and then store the solution to use for future computation
 - Making Optimal decisions
 

@@ -1,0 +1,5 @@
+2025-08-16 09:15:23 INFO  user_id=101 action=login ip=192.168.1.10
+2025-08-16 09:17:02 ERROR user_id=101 action=upload file=document.pdf size=0
+2025-08-16 09:18:45 INFO  user_id=102 action=logout ip=192.168.1.15
+2025-08-16 09:20:10 WARN  user_id=103 action=login_failed ip=192.168.1.25
+2025-08-16 09:22:34 INFO  user_id=104 action=download file=report.csv size=2450

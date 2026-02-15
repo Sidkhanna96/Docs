@@ -1,0 +1,26 @@
+- (Disagreement; Have backbone and commit / Bias for Action)
+  UAT deployment - to test - having concern with that -> Disagreement and bias for taking action - since it was a safe calculated risk
+
+- (Frugality)
+  We would notice that alot of times in our applications we would've certain instances in our PCF env just being stale and not being used - so implemented a time based logic to turn on and off our instances and implemented autoscaler for prod
+
+- (Invent and Simplify)
+  member search - data fetched was going to be extensively slow for the customer (We could do caching / pagination and what not)
+  but at the same time we needed to deliver this product and we needed some level of feedback loop to see how the users respond to this feature so we simplified our experience to fetch a minor subset of data with better user experience with a simpler backend that we can add to iteratively if needed
+
+- (Customer Obsession)
+  (Think Big / Deliver results / Ownership / Are right a lot)
+  So we are currently working on migrating legacy application to a new build react application, we could've either had just independently worked on the new build site - but the productionized software that we would've - the 20% of features that implement 80% of the users would take a long time - so we devised a silent login facet where the website transitions into new build and old build - this way we don't obfuscate and provide a new build feature way down the line.
+
+- (Think Big)
+  (Customer Obsession / Deliver results / Learned and Be Curious)
+  We had this Business rule configuration feature that was a vendor software that needed production deployments and erngineer oinvolvment - I came up with an RFC to fix this issue and design a basic CRUD app - this enabled me to have to work with GraphQL and NoSQL DB which was something I was not familiar with at the time
+
+- (Insist on highest standards)
+  So whenever we had a PR went in alot of times we would have folks paste screenshots of unit test and functional test - this would lead to alot of breaking unit test in the upper environments by the time the code was exemplified - so added Jenkins pipelines with various reasonable gating to prevent PRs from merging if they are breaking some level of automation
+
+- (Earn Trust)
+  So we have 2 applications one legacy and one new biuld - engineers seem to be picking stories that they were comfortable with - so we devised a scenario where we would explicitly state that folks need to work on both stacks I would also pick up work that was legacy related that engineers knew that I wasn't comfortable with and share my experience and my shortcomings and failures and learnings in the process (Watch me grow)
+
+- (Dive Deep)
+- So there was a mobile application where we submit our claims and the response was aroun 1.4 s down to 200 ms - it was me going in SSMS never ran it locally since had a mac so had to log into the VM and then run a query planner since DBA were slow in response and found the solution the same day and deployed it!

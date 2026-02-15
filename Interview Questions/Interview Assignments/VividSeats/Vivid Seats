@@ -1,0 +1,55 @@
+## Vivid Seats
+
+## Own it. Deliver it. - Accountable for the business impact. Not Just the task.
+
+- Landing Page and Search Engine
+
+  - Doing the high level designing of the solution, including thinking about various strategies - caching, pagination, Elastic Search or Azure Cognitive Search
+  - communicating the high level solutions to my team
+  - Doing the implementation work and then deploying it to production
+
+- We had a system where we were hardcoding business rules and doing production deployment.
+- The business side was good with the process. The tech side it was a time sync
+- So I designed a internal tooling system - throughout the process I constantly communicated the impact of the features I am delivering through demo sessions with stakeholders to get buy in AND also was accountable for the entire project and productionizing it.
+- Result of this was - reduced involvement of engineers, instantaneous application and saved 400k
+
+## Say the Hard Thing: Challenge, Align, Commit - Speak boldly. Debate fully. Move forward together.
+
+- Communication one pager - curious about consolidation of various pages; leveraging previously existing infrastructure. Organizing conversations with various stakeholders and SAs and then working from there to establish new routes that were more streamlined and easier to implement
+
+- Technical aspect, there was a time where my technical lead had an opinion about how a feature needs to be implemented - sighting leveraging a single API implementation. Whereas I was of the alternative belief.
+- So I connected with my business analyst to understand the our datasources more closely and then designed a technical documentation and design doc and then setup a meeting with my technical lead to have a conversation about the said feature.
+- We were able to come to a solution towards the end of leveraging my thought process.
+
+## Lead with Resilience - Be steady in the storm — and stronger on the other side.
+
+- There was a moment within my team where we did not have any senior engineers except myself (This was a huge team), no solution architects to consult, no EMs, The product owners were new.
+- We had a deliverable to deploy and everyone was new. So I setup a weekly sync with all of the stakeholders to understand what we are delivering and what needs to be prioritized. I established clear outlines of our goals AND then communicate that to my team.
+
+## One Mission, Many Hands - Solve big problems together — across roles, functions, and teams.
+
+- GraphQL Backend engine. Federated SOAP Services and REST APIs.
+- Consulting with many teams and Architects for the solutioning and MVP establishment of this feature.
+- I established a doc of the major calls we should focus on and then I designed many of the architectures and implementation of this feature.
+- able to improve performance for many features from 1.5 seconds to 500 ms
+
+## Raise the Bar - Never settle — demand more from yourself, your team, and the work.
+
+- I noticed alot of our feature we would deploy we would need to manually consult with the AppSec team for a scanning tool.
+- I had conversations with the platform and appSec team to see if we could enable this scan within our pipelines.
+- Implemented it . Reduce latency for bureacractic process for BAU prod deployments by 1 week.
+
+## Execute with Urgency – We Don’t Wait for Perfect - Speed is a skill — and a choice.
+
+- With GraphQL engine - I realized this is a large chunk of work with various different edge cases.
+- I looked at the crux of the problem for each implementation. With major edge cases. And then did the implementation.
+- Designed system in the middle. Where we had QEs doing integration testing and manual testing. Involving BUs. Doing regression testing. Business testing.
+- And then deploying features to production as soon as possible to get a feedback loop.
+- This enabled us to show business impact and see if we missed anything and have shorter turn around time.
+
+## Be Self-Critical - The best get better by being honest with themselves.
+
+- I would say urgency was a main aspect. I would try to figure out everything think about what the perfect solution was.
+- I would try to understand everything - Which would be counterproductive at some level.
+- And that would lead to missing timelines for stories I had assigned.
+- Realized that business impact is equally important and not going into tech rabbit holes no matter how interesting it is. Fastness and repetition is a better education than perfectionism. And to have systems in place for issues that I would imagine could come up. And having the belief as long as I tackle the crux of problem and have given reasonable though to edge cases anything that comes up beyond is fixible and solutions exist out there.

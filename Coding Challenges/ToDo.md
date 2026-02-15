@@ -71,11 +71,12 @@ Backtracking: - find all possible solutions
       - DFS (Iterative DFS, inOrder, inOrder iterative, preOrder, postOrder)
       - BFS
       - Backtracking
-      - TopSort
     - Pattern:
       - Create an Adjacency list and then use above algorithms to solve it
 - Graphs:
   - Above + Adjacency list
+  - TopSort
+  - Graph Theory
   - Greedy:
     - Dijkstra
     - Disjoint Set Union
@@ -101,9 +102,11 @@ Optimization Problem - To find the minimum or maximum result
 - Dynamic Programming - Solve Optimization
   - Find all possible solutions instead of per step basis and pick the best one - its a bit more time consuming
   - Principle of Optimality
+  - Returns the # of solutions or the optimal efficient solution - efficiently caches the repeated steps
 - Backtracking:
   - Brute Force all possible solutions
   - Not for Optimization - we don't want the best solution - we want all solutions
+  - Backtacking is an algorithm to find all possible solutions - by exploring all potantial candidates
 
 # Template:
 
@@ -118,3 +121,24 @@ Optimization Problem - To find the minimum or maximum result
 ### Questions:
 
 ### How it works ?
+
+- Write down examples
+- Think about manula solution and brute force
+- Ask clarifying questions
+- Break down the problem into smaller parts
+- Apply common DS:
+  - Hash
+  - Graphs
+  - Stack and Queues
+  - Heap
+  - Tree / Trie
+
+### Structure:
+
+- Write down examples
+- Write down assumptions
+  - About input
+  - About output
+- Solution
+  - Brute Force
+  - Optimized

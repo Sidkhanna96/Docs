@@ -1,7 +1,0 @@
-- React
-    - Hooks
-    - States
-    - Thunk
-    - State Management:
-        - Redux
-        - xstate

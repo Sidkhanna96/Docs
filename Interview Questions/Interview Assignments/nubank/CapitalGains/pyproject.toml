@@ -1,0 +1,27 @@
+[project]
+name = "capitalgains"
+version = "0.1.0"
+description = ""
+authors = []
+readme = "README.md"
+requires-python = ">=3.9"
+
+dependencies = []
+
+[dependency-groups]
+dev = [
+    "pytest (>=9.0.1,<10.0.0)"
+]
+
+[build-system]
+requires = ["setuptools>=45", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
+markers = [
+    "unit: Unit tests for individual functions",
+    "integration: Integration tests for full workflows",
+    "edge_case: Edge case and boundary tests",
+]

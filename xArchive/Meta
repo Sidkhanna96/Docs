@@ -1,0 +1,251 @@
+
+
+
+
+
+
+Meta:
+
+Redo:
+
+- https://leetcode.com/problems/continuous-subarray-sum/submissions/1617563729/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days 
+- https://leetcode.com/problems/diagonal-traverse/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days 
+- https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/1618401894/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days 
+- https://leetcode.com/problems/inorder-successor-in-bst-ii/submissions/1618428093/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days \
+- https://leetcode.com/problems/delete-nodes-and-return-forest/submissions/1618516673/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days 
+- https://leetcode.com/problems/closest-binary-search-tree-value/submissions/1618534346/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days 
+- https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days 
+- Read Editorial:
+    - https://leetcode.com/problems/create-hello-world-function/editorial/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days 
+- https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/submissions/1621053229/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days 
+- https://leetcode.com/problems/decode-string/submissions/1621068352/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days 
+- https://leetcode.com/problems/can-place-flowers/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days - Solved this one in 15 mins and figured out it was greedy
+- https://leetcode.com/problems/construct-binary-tree-from-string/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days 
+- https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/solutions/169965/python-inorder-transverse/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days 
+- Meh problem: https://leetcode.com/problems/string-to-integer-atoi/editorial/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days 
+- https://leetcode.com/problems/check-completeness-of-a-binary-tree/editorial/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days 
+- Solved it do 2 pointer: https://leetcode.com/problems/squares-of-a-sorted-array/editorial/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days 
+- https://leetcode.com/problems/cutting-ribbons/editorial/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days 
+
+Done:
+- https://leetcode.com/problems/binary-search-tree-iterator/submissions/1618446004/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days  - 10 mins
+- https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/submissions/1618736631/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days - 14 mins
+- https://leetcode.com/problems/car-pooling/editorial/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days 
+- https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/submissions/1622721303/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days - Stack - 6 mins
+    - I figured out what type of problem it is!
+- https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/1623545251/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days - 15 mins
+
+Review:
+* Remove Nth Node From End of List
+* Max Consecutive Ones III
+* Expression Add Operators
+* Merge Intervals
+* Lowest Common Ancestor of a Binary Tree
+* Nested List Weight Sum
+* LRU Cache
+* Pow(x, n)
+* Merge k Sorted Lists
+* Interval List Intersections
+* Dot Product of Two Sparse Vectors
+* Moving Average from Data Stream
+* Range Sum of BST
+* Custom Sort String
+* All Nodes Distance K in Binary Tree
+* Add Strings
+*  Diagonal Traverse
+* Clone Graph
+* Insert into a Sorted Circular Linked List
+* Continuous Subarray Sum
+* Remove Duplicates from Sorted Array
+*  Binary Search Tree Iterator
+* Delete Nodes And Return Forest
+* Decode String
+* Inorder Successor in BST II
+* Remove All Adjacent Duplicates In String
+* Word Ladder
+* Car Pooling
+* Group Shifted Strings
+* Can Place Flowers
+* Best Time to Buy and Sell Stock II
+* Exclusive Time of Functions
+* Meeting Scheduler
+* Find Median from Data Stream
+* String to Integer (atoi)
+* 3Sum
+* Set Matrix Zeroes
+* Missing Ranges
+* Cutting Ribbons
+* Vertical Order Traversal of a Binary Tree
+* Generate Parentheses
+* . 01 Matrix
+* Maximum Subarray
+* Minimum Remove to Make Valid Parentheses
+* Valid Word Abbreviation
+* Diameter of Binary Tree
+*  Lowest Common Ancestor of a Binary Tree III
+* Buildings With an Ocean View
+* Copy List with Random Pointer
+*  Binary Tree Vertical Order Traversal
+* . Subarray Sum Equals K
+* Basic Calculator II
+* Random Pick with Weight
+* Shortest Path in Binary Matrix
+* Top K Frequent Elements
+* Koko Eating Bananas
+* https://leetcode.com/discuss/post/5082266/amazon-oa-by-shruti_kamtekar-e4gy/ 
+* https://www.hackerrank.com/challenges/picking-numbers/problem 
+* Find First and Last Position of Element in Sorted Array - did it but just need to do it again!
+* 536. Construct Binary Tree from String
+* Asteroid Collision
+* Sort Colors
+
+
+
+Master List:
+From top ~100:
+1.  Next Permutation
+2.  Valid Number
+3.  Sliding Window Median
+4.  Russian Doll Envelopes
+5.  Find the Most Common Response
+6.  Median of Two Sorted Arrays
+7.  Robot Room Cleaner
+8.  Remove Invalid Parentheses
+9.  Product of Two Run-Length Encoded Arrays
+10.  Find K Closest Elements
+11.  Majority Element
+12.  Accounts Merge
+13.  Find Numbers with Even Number of Digits
+14.  String to Integer (atoi)
+15.  Construct Binary Tree from String
+16.  Missing Element in Sorted Array
+17.  Add Binary
+18.  Count Subarrays Where Max Element Appears at Least K Times
+19.  Max Points on a Line
+20.  Valid Palindrome III 
+21.  Convert Binary Search Tree to Sorted Doubly Linked List
+22.  Largest Divisible Subset
+23.  The Maze
+24.  Vertical Order Traversal of a Binary Tree
+25.  Minimum Remove to Make Valid Parentheses 
+26.  Kth Largest Element in an Array 
+27.  Buildings With an Ocean View
+28.  Lowest Common Ancestor of a Binary Tree III
+29.  Copy List with Random Pointer
+30.  Binary Tree Vertical Order Traversal
+31.  Binary Tree Right Side View
+32.  Basic Calculator II
+33.  Subarray Sum Equals K
+34.  Shortest Path in Binary Matrix
+35.  Random Pick with Weight
+36.  Merge Intervals
+37.  Top K Frequent Elements
+38.  Lowest Common Ancestor of a Binary Tree
+39.  Find Peak Element
+40.  Nested List Weight Sum
+41.  Find First and Last Position of Element in Sorted Array
+42.  Pow(x, n)
+43.  Minimum Add to Make Parentheses Valid
+44.  Simplify Path
+45.  Custom Sort String
+46.  K Closest Points to Origin
+Attempted:
+1.  Continuous Subarray Sum
+2.  Diagonal Traverse
+3.  Remove Duplicates from Sorted Array
+4.  Inorder Successor in BST II
+5.  Delete Nodes And Return Forest
+6.  Closest Binary Search Tree Value
+7.  Count Nodes Equal to Average of Subtree
+8.  Best Time to Buy and Sell Stock II
+9.  Decode String
+10.  Can Place Flowers
+11.  Squares of a Sorted Array
+Review:
+1.  Remove Nth Node From End of List
+2.  Max Consecutive Ones III
+3.  Expression Add Operators
+4.  LRU Cache
+5.  Merge k Sorted Lists
+6.  Interval List Intersections
+7.  Dot Product of Two Sparse Vectors
+8.  Moving Average from Data Stream
+9.  Range Sum of BST
+10.  All Nodes Distance K in Binary Tree
+11.  Add Strings
+12.  Clone Graph
+13.  Insert into a Sorted Circular Linked List
+14.   Binary Search Tree Iterator
+15.  Remove All Adjacent Duplicates In String
+16.  Word Ladder
+17.  Car Pooling
+18.  Group Shifted Strings
+19.  Exclusive Time of Functions
+20.  Meeting Scheduler
+21.  Find Median from Data Stream
+22.  3Sum
+23.  Set Matrix Zeroes
+24.  Missing Ranges
+25.  Cutting Ribbons
+26.  Generate Parentheses
+27. 01 Matrix
+28.  Maximum Subarray
+29.  Valid Word Abbreviation
+30.  Diameter of Binary Tree
+31.  Koko Eating Bananas
+32.  https://leetcode.com/discuss/post/5082266/amazon-oa-by-shruti_kamtekar-e4gy/ 
+33. https://www.hackerrank.com/challenges/picking-numbers/problem 
+34.  Find First and Last Position of Element in Sorted Array
+35. Asteroid Collision
+36. Sort Colors
+
+
+
+Questions to do:
+- `Minimum Remove to Make Valid Parentheses` -> Have 2 stacks - one for open and one for close
+- `Basic Calculator II`
+- `Merge Intervals`
+- `Minimum Add to Make Parentheses Valid`
+- `Simplify Path`
+- `Moving Average from Data Stream`
+- `Decode String`
+- `Valid Parentheses`
+- `Remove All Adjacent Duplicates In String`
+- `Car Pooling`
+- `Exclusive Time of Functions`
+- `String to Integer (atoi)`
+- `3Sum`
+- `Asteroid Collision`
+- `Valid Palindrome II`
+- `Merge Sorted Array`
+- `Valid Palindrome`
+- `Interval List Intersections`
+- `Add Strings`
+- `Palindromic Substrings`
+- `Insert into a Sorted Circular Linked List`
+- `Remove Duplicates from Sorted Array`
+- `Palindrome Number`
+- `Squares of a Sorted Array`
+- `Sort Colors`
+- `Amazon OA - Pages`
+- `Kth Largest Element in an Array`
+- `Top K Frequent Elements`
+- `Merge k Sorted Lists`
+- ` K Closest Points to Origin`
+- `Meeting Scheduler`
+- `Find Median from Data Stream`
+- `Find Peak Element`
+- ` Find First and Last Position of Element in Sorted Array`
+- `Cutting Ribbons`
+- `Subarray Sum Equals K`
+- `Random Pick with Weight` ???
+- `Max Consecutive Ones III`
+- `Continuous Subarray Sum`
+- `Can Place Flowers`
+- `Expression Add Operators`
+- `Subsets`
+- ` Letter Combinations of a Phone Number`
+- `Generate Parentheses`
+- `count adjacent AWS`
+
+

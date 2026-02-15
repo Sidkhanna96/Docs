@@ -28,14 +28,14 @@
   - Used for find the shortest path from point A to point B
 
 - Differences:
-  - Pure Disjoint Set Union (By Rank) - Used to detect cycles (Tree don't have cycles)
+  - Pure Disjoint Set Union (By Rank) - Used to detect which edge has cycles (Tree don't have cycles - so could techinically use dfs/bfs for boolean)
   - Kruskals Algorithm - Utilizes DSU but works under weighted Graph - MST
   - Prims Algorithm - Weighted Graph - MST
   - Dijkstra - Does may not utilize all the edges it just find the minimum distance from point A to B in a graph - that does not mean all the edges are used even if they're checked
 
 ### Questions:
 
-- [Disjoint Set Union by Rank (Kruskals in a way - but does not care about finding minimum just finding cycle - Kruskal Operate with weighterd unidirected graph)](https://leetcode.com/problems/redundant-connection/description/)
+- [Disjoint Set Union by Rank (Kruskals in a way - but does not care about finding minimum just finding cycle - Kruskal Operate with weighted unidirected graph)](https://leetcode.com/problems/redundant-connection/description/)
 - [Prims or Kruskals](https://leetcode.com/problems/min-cost-to-connect-all-points/description/)
 - [Dijkstra](https://leetcode.com/problems/network-delay-time/description/)
 
